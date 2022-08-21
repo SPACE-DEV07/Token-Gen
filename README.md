@@ -1,7 +1,8 @@
 # Space-Token-GenV2
 # Discord-Token-Generator Or Discord-Member-Botter
 
-`USE THE V2 VERSION FROM RELEASE`
+`#V1 PATCHED
+USE THE V2 VERSION FROM RELEASE`
 
 # Goals : 
 
